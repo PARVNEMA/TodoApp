@@ -11,7 +11,7 @@ First, [create a repository from this template](https://docs.github.com/en/githu
 Now you are ready to go:
 
 ```shell
-git clone https://github.com/PARVNEMA/TodoApp
+git clone https://github.com/PARVNEMA/TodoApp.git
 cd TodoApp
 
 ```
