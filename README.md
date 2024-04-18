@@ -21,7 +21,7 @@ This will install the dependencies required to run the boilerplate.
 ```shell
 npm run dev
 ```
-
+Also go to tailwind css website and install all the dependencies of vite framework
 
 Currently, two official plugins are available:
 
